@@ -17,7 +17,7 @@ since: 2000 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://songful.github.io/
+url: http://songful.github.io/sonmoe.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -75,5 +75,5 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/songful/letsrpg-blog.git
+  repository: git@github.com:songful/sonmoe.com.git
   branch: gh-pages
