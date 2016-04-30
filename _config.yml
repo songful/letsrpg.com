@@ -8,7 +8,7 @@ subtitle:
 description: Hexo theme - Icarus
 author: seon
 author_title: 'Web Developer & Designer'
-avatar: css/images/avatar.png
+avatar: /css/images/avatar.png
 location: 'ShenZhen, China'
 follow: https://github.com/songful/
 language: en
